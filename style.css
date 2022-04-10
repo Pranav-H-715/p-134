@@ -1,0 +1,21 @@
+.heading {
+    box-shadow: 5px 5px 60px rgb(2, 26, 243);
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 0%;
+    width: 100%;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px  20px rgb(243, 2, 183);
+    text-decoration: thistle;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    background-color: yellow;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#status{
+font-size: 18px;
+}
